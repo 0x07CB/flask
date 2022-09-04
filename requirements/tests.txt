@@ -25,7 +25,7 @@ pyparsing==3.0.9
     # via packaging
 pytest==7.1.2
     # via -r requirements/tests.in
-python-dotenv==0.20.0
+python-dotenv==0.21.0
     # via -r requirements/tests.in
 tomli==2.0.1
     # via pytest
